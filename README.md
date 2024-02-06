@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [同样的病因，不同的结果](https://forum.beginner.center/t/topic/795/1)
+- [心内科系列教学视频——ICU医生的精进](https://forum.beginner.center/t/topic/794/1)
+- [血管缝合操作教学视频](https://forum.beginner.center/t/topic/793/1)
 - [使用Windows内置命令powercfg查询电池使用情况](https://forum.beginner.center/t/topic/791/1)
 - [【工具推荐】本地在线图片压缩网站-picdiet](https://forum.beginner.center/t/topic/785/1)
-- [无线麦克风评测](https://forum.beginner.center/t/topic/783/1)
-- [采购及装机教程——怎么用最低预算，装一台「2K游戏+生产力」主机](https://forum.beginner.center/t/topic/782/1)
-- [【教学视频】甲状腺功能检查](https://forum.beginner.center/t/topic/781/1)
 <!-- BLOG-POST-LIST:END -->
