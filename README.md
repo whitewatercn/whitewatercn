@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [肌酐的来源去处](https://forum.beginner.center/t/topic/853/1)
+- [非心脏外科手术围手术期心血管疾病管理中国专家共识](https://forum.beginner.center/t/topic/852/1)
 - [笔记：呕吐的处理-除了胃复安，还有什么](https://forum.beginner.center/t/topic/848/1)
 - [看过不错的骨科影像教学视频](https://forum.beginner.center/t/topic/432/6)
 - [尿酸的来源去处，以及降尿酸治疗](https://forum.beginner.center/t/topic/845/1)
-- [国家医学考试网官网（执业医师报名](https://forum.beginner.center/t/topic/844/1)
-- [看过不错的骨科影像教学视频](https://forum.beginner.center/t/topic/432/5)
 <!-- BLOG-POST-LIST:END -->
