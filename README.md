@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [【pdf】医用生理学第26版（review of medical physiology 26th edition）](https://forum.beginner.center/t/topic/907/1)
+- [循证医学，中医，西医](https://forum.beginner.center/t/topic/906/1)
 - [看过不错的骨科教学视频](https://forum.beginner.center/t/topic/432/13)
 - [半月板损伤与撕裂](https://forum.beginner.center/t/topic/901/1)
 - [【PDF】骨科手术图谱入路与解剖（Stanley Hoppenfeld, Hugh A. Thomas, Piet deBoer，邱贵兴译）](https://forum.beginner.center/t/topic/899/1)
-- [山东大学慕课——脊柱外科临床解剖与手术入路](https://forum.beginner.center/t/topic/898/1)
-- [防诈骗——山东中医药大学学报](https://forum.beginner.center/t/topic/896/1)
 <!-- BLOG-POST-LIST:END -->
