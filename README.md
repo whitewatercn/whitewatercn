@@ -6,7 +6,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [大学医学英语系列丛书•医学英语词汇学](https://forum.beginner.center/t/topic/1143/1)
+- [【epub】大学医学英语系列丛书•医学英语词汇学](https://forum.beginner.center/t/topic/1143/1)
 - [langchain如何支持自定义OpenAI地址](https://forum.beginner.center/t/topic/1140/1)
 - [用python制作/转换mdict文件（.mdx）](https://forum.beginner.center/t/topic/1139/1)
 - [北中医本科选课（公选、专选、必修选课）](https://forum.beginner.center/t/topic/1137/3)
