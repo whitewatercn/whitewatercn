@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [matplotlib如何使用macOS本地中文字体](https://forum.beginner.center/t/topic/1173/1)
 - [【官方双语/合集】线性代数的本质 - 系列合集](https://forum.beginner.center/t/topic/945/6)
 - [【官方双语/合集】线性代数的本质 - 系列合集](https://forum.beginner.center/t/topic/945/5)
 - [【官方双语/合集】线性代数的本质 - 系列合集](https://forum.beginner.center/t/topic/945/4)
 - [【官方双语/合集】线性代数的本质 - 系列合集](https://forum.beginner.center/t/topic/945/3)
-- [【官方双语/合集】线性代数的本质 - 系列合集](https://forum.beginner.center/t/topic/945/2)
 <!-- BLOG-POST-LIST:END -->
