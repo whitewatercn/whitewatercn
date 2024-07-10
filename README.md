@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [深度可分离卷积不错的教程](https://forum.beginner.center/t/topic/1226/1)
+- [【转载】轻量级神经网络“巡礼”（二）—— MobileNet，从V1到V3](https://forum.beginner.center/t/topic/1225/1)
 - [vscode python带参数快速调试debug](https://forum.beginner.center/t/topic/1221/1)
 - [将电脑端b站用于主动检索而非被动推送](https://forum.beginner.center/t/topic/1218/1)
 - [精读论文Alexnet](https://forum.beginner.center/t/topic/1217/1)
-- [如何判断txt文件的编码方式？chardet库帮你搞定！](https://forum.beginner.center/t/topic/1213/1)
-- [循环神经网络RNN及其变体](https://forum.beginner.center/t/topic/1194/1)
 <!-- BLOG-POST-LIST:END -->
