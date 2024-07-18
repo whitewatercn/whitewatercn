@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [中药亲试记-Day50 醋商陆，牵牛子，醋独活](https://forum.beginner.center/t/topic/1242/1)
+- [中药亲试记-Day51 威灵仙，制川乌，制草乌](https://forum.beginner.center/t/topic/1241/1)
+- [中药亲试记-Day49 番泻叶，芦荟，火麻仁，郁李仁，松子仁，甘遂](https://forum.beginner.center/t/topic/1240/1)
 - [深度学习参数可视化（输入、输出、步长、kernelsize、padding等）](https://forum.beginner.center/t/topic/1236/1)
 - [纪念一下第一个独立完成的炼丹配方](https://forum.beginner.center/t/topic/1235/1)
-- [中药亲试记-Day48 胡黄连，大黄，芒硝](https://forum.beginner.center/t/topic/1234/1)
-- [中药亲试记-Day47 白薇，地骨皮，银柴胡](https://forum.beginner.center/t/topic/1233/1)
-- [甲状腺结节TI-RADS分级](https://forum.beginner.center/t/topic/1228/1)
 <!-- BLOG-POST-LIST:END -->
