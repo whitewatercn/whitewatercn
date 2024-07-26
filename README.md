@@ -6,7 +6,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [中药亲试记-Day55 老鹳草，穿山龙，丝瓜络](https://forum.beginner.center/t/topic/1263/1)
+- [中药亲试记-Day56 老鹳草，穿山龙，丝瓜络](https://forum.beginner.center/t/topic/1263/1)
 - [中药亲试记-Day55 豨签草，海桐皮，络石藤](https://forum.beginner.center/t/topic/1262/1)
 - [pubmed怎么用](https://forum.beginner.center/t/topic/1261/1)
 - [attention机制](https://forum.beginner.center/t/topic/1248/1)
