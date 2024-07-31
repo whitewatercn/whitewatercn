@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [免费pdf工具smallpdf](https://forum.beginner.center/t/topic/1289/1)
+- [中文影像组学论坛](https://forum.beginner.center/t/topic/1288/1)
+- [week week tool -W1 GPT怎么用？](https://forum.beginner.center/t/topic/1287/1)
 - [中药亲试记-Day63 茯苓，茯苓皮，茯神](https://forum.beginner.center/t/topic/1286/1)
 - [给大一新生的信息大礼包（构思中](https://forum.beginner.center/t/topic/1285/4)
-- [给大一新生的信息大礼包（构思中](https://forum.beginner.center/t/topic/1285/3)
-- [给大一新生的信息大礼包（构思中](https://forum.beginner.center/t/topic/1285/2)
-- [键帽选购指南](https://forum.beginner.center/t/topic/1284/1)
 <!-- BLOG-POST-LIST:END -->
