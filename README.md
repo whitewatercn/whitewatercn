@@ -6,7 +6,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [儿科轮转](https://forum.beginner.center/t/topic/1292/1)
+- [儿科轮转收获](https://forum.beginner.center/t/topic/1292/1)
 - [中药亲试记-Day64 薏苡仁，猪苓，泽泻](https://forum.beginner.center/t/topic/1290/1)
 - [【工具推荐】一个网站搞定所有pdf操作](https://forum.beginner.center/t/topic/1289/1)
 - [中文影像组学论坛](https://forum.beginner.center/t/topic/1288/1)
