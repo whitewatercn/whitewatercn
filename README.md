@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [公众号推荐——谈医说馆](https://forum.beginner.center/t/topic/1299/1)
+- [公众号推荐——非圣医话](https://forum.beginner.center/t/topic/1298/1)
+- [给大一新生的信息大礼包（构思中](https://forum.beginner.center/t/topic/1285/9)
+- [给大一新生的信息大礼包（构思中](https://forum.beginner.center/t/topic/1285/8)
 - [中药亲试记-Day65 冬瓜皮，冬瓜子，玉米须](https://forum.beginner.center/t/topic/1294/1)
-- [儿科轮转收获](https://forum.beginner.center/t/topic/1292/1)
-- [中药亲试记-Day64 薏苡仁，猪苓，泽泻](https://forum.beginner.center/t/topic/1290/1)
-- [【工具推荐】一个网站搞定所有pdf操作](https://forum.beginner.center/t/topic/1289/1)
-- [中文影像组学论坛](https://forum.beginner.center/t/topic/1288/1)
 <!-- BLOG-POST-LIST:END -->
