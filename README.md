@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [中药亲试记-Day74 高良姜，红豆蔻，白胡椒](https://forum.beginner.center/t/topic/1316/1)
+- [中药亲试记-Day73 小茴香，八角茴香，丁香](https://forum.beginner.center/t/topic/1315/1)
 - [【工具推荐】人工智能PDF转换格式（比如markdown](https://forum.beginner.center/t/topic/1313/1)
 - [中药亲试记-Day72 干姜，肉桂，制吴茱萸](https://forum.beginner.center/t/topic/1312/1)
 - [中药亲试记-Day71 白附片，生附片，黑顺片，蒸附片](https://forum.beginner.center/t/topic/1311/1)
-- [2021版WHO脑瘤分类（The 2021 WHO Classification of Tumors of the Central Nervous System: a summary](https://forum.beginner.center/t/topic/1310/1)
-- [A016提醒19级学弟学妹，请注意选导师的囚徒困境](https://forum.beginner.center/t/topic/359/6)
 <!-- BLOG-POST-LIST:END -->
