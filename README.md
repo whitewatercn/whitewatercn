@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [【白学】头孢霉素类](https://forum.beginner.center/t/topic/1338/1)
-- [【白学】临床小白系列：抗生素的合理使用](https://forum.beginner.center/t/topic/1337/1)
-- [时间管理指南（from涂俊杰&amp;剑飞）](https://forum.beginner.center/t/topic/1328/4)
-- [Discourse组件询问？](https://forum.beginner.center/t/topic/1335/2)
-- [Excel中实现时间相减，得到间隔时间（年月日时分秒）](https://forum.beginner.center/t/topic/1333/1)
+- [中药亲试记-Day85 山楂，焦神曲，建神曲](https://forum.beginner.center/t/topic/1344/1)
+- [中药亲试记-Day84 柿蒂，莱菔子，鸡内金](https://forum.beginner.center/t/topic/1343/1)
+- [中药亲试记-Day83 甘松，九香虫，刀豆](https://forum.beginner.center/t/topic/1342/1)
+- [中药亲试记-Day82 娑罗子，薤白，大腹皮](https://forum.beginner.center/t/topic/1341/1)
+- [中药亲试记-Day81 香附，佛手，香橼](https://forum.beginner.center/t/topic/1340/1)
 <!-- BLOG-POST-LIST:END -->
