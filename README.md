@@ -6,7 +6,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [乳腺初发育，宝妈看过来](https://forum.beginner.center/t/topic/1346/1)
+- [乳腺发育科普](https://forum.beginner.center/t/topic/1346/1)
 - [给大一新生的信息大礼包（构思中](https://forum.beginner.center/t/topic/1285/13)
 - [血常规怎么看](https://forum.beginner.center/t/topic/1345/2)
 - [血常规怎么看](https://forum.beginner.center/t/topic/1345/1)
