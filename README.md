@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [科研绘图教程](https://forum.beginner.center/t/topic/1362/1)
+- [ROC曲线与截断值](https://forum.beginner.center/t/topic/1361/1)
+- [生存分析b站视频](https://forum.beginner.center/t/topic/1360/1)
 - [生存分析简明教程](https://forum.beginner.center/t/topic/1359/1)
 - [【全国多中心开展】招募糖尿病患者-药品已上市-中心已过伦理](https://forum.beginner.center/t/topic/1200/5)
-- [【笔记】简单串串肾的重吸收和重分泌](https://forum.beginner.center/t/topic/1358/1)
-- [中华医学影像案例解析宝典：头颈+神经+心胸+骨肌+腹部+儿科+护理+介入&lpar;套装共8册&rpar;&lpar;中青年影像医师和临床医师学习和提高的&quot;宝典&quot;&rpar;](https://forum.beginner.center/t/topic/1357/1)
-- [血气分析教程及学习笔记](https://forum.beginner.center/t/topic/1356/1)
 <!-- BLOG-POST-LIST:END -->
