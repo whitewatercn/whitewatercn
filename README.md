@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [北京中医医院儿科名老中医治疗小儿外感热病经验荟萃](https://forum.beginner.center/t/topic/1382/1)
+- [周慕新儿科临床经验选](https://forum.beginner.center/t/topic/1381/1)
+- [北京中医药大学信息化服务指南](https://forum.beginner.center/t/topic/1380/1)
 - [【转载】治湿十三法](https://forum.beginner.center/t/topic/1379/1)
 - [【转载】我的北中医记忆——校长徐大大](https://forum.beginner.center/t/topic/1378/2)
-- [【转载】我的北中医记忆——校长徐大大](https://forum.beginner.center/t/topic/1378/1)
-- [中华医学影像案例解析宝典：头颈+神经+心胸+骨肌+腹部+儿科+护理+介入&lpar;套装共8册&rpar;&lpar;中青年影像医师和临床医师学习和提高的&quot;宝典&quot;&rpar;](https://forum.beginner.center/t/topic/1357/5)
-- [中华医学影像案例解析宝典：头颈+神经+心胸+骨肌+腹部+儿科+护理+介入&lpar;套装共8册&rpar;&lpar;中青年影像医师和临床医师学习和提高的&quot;宝典&quot;&rpar;](https://forum.beginner.center/t/topic/1357/3)
 <!-- BLOG-POST-LIST:END -->
