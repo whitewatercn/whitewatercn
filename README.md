@@ -10,5 +10,5 @@
 - [周慕新儿科临床经验选](https://forum.beginner.center/t/topic/1381/1)
 - [北京中医药大学信息化服务指南](https://forum.beginner.center/t/topic/1380/1)
 - [【转载】治湿十三法](https://forum.beginner.center/t/topic/1379/1)
-- [【转载】我的北中医记忆——校长徐大大](https://forum.beginner.center/t/topic/1378/2)
+- [【转载】我的北中医记忆——校长徐大大](https://forum.beginner.center/t/topic/1378/1)
 <!-- BLOG-POST-LIST:END -->
