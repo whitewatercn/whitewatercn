@@ -19,4 +19,4 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@1.9.1
         with:
-          feed_list: "https://blog.whitewater.wang/feed"
+          feed_list: "https://feeds.feedburner.com/ruanyifeng"
