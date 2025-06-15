@@ -6,6 +6,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A051在下雨的早晨起床好难啊](https://blog.whitewater.wang/a051/)
 - [A050没有什么能改变自己，除了你自己](https://blog.whitewater.wang/a050/)
 - [A049人生是旷野，是轨道，是选择](https://blog.whitewater.wang/a049/)
 - [A045蕲春游记](https://blog.whitewater.wang/a045/)
