@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A076当你的朋友有情绪时怎么聊天](https://blog.whitewater.wang/a076/)
+- [A075阿星看蚂蚁](https://blog.whitewater.wang/a075/)
+- [A074放下害怕，拥抱恐惧](https://blog.whitewater.wang/a074/)
 - [A051在下雨的早晨起床好难啊](https://blog.whitewater.wang/a051/)
 - [A050没有什么能改变自己，除了你自己](https://blog.whitewater.wang/a050/)
-- [A049人生是旷野，是轨道，是选择](https://blog.whitewater.wang/a049/)
-- [A045蕲春游记](https://blog.whitewater.wang/a045/)
-- [A043 GPT只能提高效率，不能代替学习](https://blog.whitewater.wang/a043/)
 <!-- BLOG-POST-LIST:END -->
