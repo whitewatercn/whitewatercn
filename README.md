@@ -6,9 +6,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A079可以](https://blog.whitewater.wang/a079/)
 - [A078可以不为任何人而努力](https://blog.whitewater.wang/a078/)
 - [A077年轻人的玩具不一定得是玩具](https://blog.whitewater.wang/a077/)
 - [A076当你的朋友有情绪时怎么聊天](https://blog.whitewater.wang/a076/)
 - [A075阿星看蚂蚁](https://blog.whitewater.wang/a075/)
-- [A074放下害怕，拥抱恐惧](https://blog.whitewater.wang/a074/)
 <!-- BLOG-POST-LIST:END -->
