@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://forum.beginner.center/u/doggie/activity.rss"
+          feed_list: "https://forum.beginner.center/u/doggie/activity.rss/"
           
