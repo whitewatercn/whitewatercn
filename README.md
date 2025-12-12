@@ -7,7 +7,7 @@ https://forum.beginner.center/u/doggie
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitewatercn)](https://github.com/anuraghazra/github-readme-stats)
 
-📕 &nbsp;**Latest Blog Posts**
+# 📕 &nbsp;**Latest Posts**
 <!-- BLOG-POST-LIST:START -->
 - [A079可以](https://blog.whitewater.wang/a079/)
 - [A078可以不为任何人而努力](https://blog.whitewater.wang/a078/)
